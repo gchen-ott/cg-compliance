@@ -47,13 +47,6 @@ satisfies:
     text: |
       18F will deliver all documents used in or created during the assessment to generate a complete FedRAMP Authorization package. The package is transmitted to the FedRAMP Program Management Office (PMO) for submission to the FedRAMP JAB
   standard_key: NIST-800-53
-- control_key: CA-2 (2)
-  covered_by:
-  - verification_key: POLICY_DOC
-  implementation_status: none
-  narrative:
-  - text: 18F will enegage the 3PAO to conduct annual vulnerability assessments and penetration testing or when there are significant changes to its information systems to meet the FedRAMP continuous monitoring program objectives. All assessment activities will be planned, approved and announced before testing takes place.
-  standard_key: NIST-800-53
 - control_key: CA-2 (1)
   covered_by:
   - verification_key: POLICY_DOC
