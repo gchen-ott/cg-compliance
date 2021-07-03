@@ -17,7 +17,7 @@ components:
   - ./IA_Policy
 #  - ./IR_Policy
   - ./JumpBox
-  - ./MA_Policy
+#  - ./MA_Policy
 #  - ./MP_Policy
   - ./PE_Policy
   - ./PL_Policy
