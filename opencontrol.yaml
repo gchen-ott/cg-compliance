@@ -31,7 +31,7 @@ dependencies:
   systems:
     - url: https://github.com/opencontrol/cf-compliance
       revision: master
-    - url: https://github.com/opencontrol/aws-compliance
+    - url: https://github.com/gchen-ott/aws-compliance
       revision: master
   standards:
     - url: https://github.com/opencontrol/standards
